@@ -21,6 +21,7 @@ ul {
 li {
     display: inline;
     border-right: 20px  ;
+    padding: 3% ;
     
     
     
@@ -84,7 +85,7 @@ button {
     display: inline;
     padding: 3%;
     padding-bottom: 20%;
-    padding-top: 10% ;
+    
     
 }
 
