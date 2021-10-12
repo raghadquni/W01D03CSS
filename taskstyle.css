@@ -1,0 +1,28 @@
+body {
+    margin: auto;
+    width: 65% ;
+}
+
+img {
+    margin: 0 auto;
+    width: 100% ;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0%;
+    background-color: orangered;
+}
+
+    
+
+li {
+    display: inline;
+    border-right: 20px  ;
+    
+}
+
+li.lastchild {
+    border: none;
+}
